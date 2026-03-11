@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.3.6 Chrome/140.0.7339.249 Electron/38.8.0 Safari/537.36" version="29.3.6">
   <diagram name="Page-1" id="7wsjfn0Bk9l4XAicFsLJ">
-    <mxGraphModel dx="1480" dy="1171" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3848" dy="3044" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -397,6 +397,15 @@
         </mxCell>
         <mxCell id="Oxe4aPg68ftzw4yyclvl-147" parent="1" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.http_notification;fillColor=#D9A741;gradientColor=none;" value="" vertex="1">
           <mxGeometry height="63" width="100.5" x="878.5" y="1259" as="geometry" />
+        </mxCell>
+        <mxCell id="S2F7ceKrvcb2F1dxYILS-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;u&gt;HLD For E-commerce Platform&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="453.21" x="1051.79" y="88" as="geometry" />
+        </mxCell>
+        <mxCell id="S2F7ceKrvcb2F1dxYILS-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;FUNCTIONAL REQUIREMENTS&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;1.User registration and authentication&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;2.Browse and search products by category&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;3. Add products to cart&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;4.Update or remove items from cart&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;5.Place orders and process payments&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;6.Manage inventory and product availability&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;7.View order history&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;8.Provide product reviews and ratings&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="599" width="561" x="217" y="57" as="geometry" />
+        </mxCell>
+        <mxCell id="S2F7ceKrvcb2F1dxYILS-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;&lt;b&gt;NON FUNCTIONAL REQUIREMENT&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;1. &lt;/font&gt;&lt;span style=&quot;background-color: transparent; font-size: 27px;&quot;&gt;Low latency response time&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; font-size: 27px;&quot;&gt;2.High availability (99.9% uptime)&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; font-size: 27px;&quot;&gt;3.Scalability to support millions of concurrent users &lt;br&gt;4.Strong consistency for inventory and payments &lt;br&gt;5.Secure handling of user and payment data&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="296" width="600" x="1768" y="187" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
